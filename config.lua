@@ -1306,11 +1306,11 @@ Config.Plants = {
 
 -- Language text for prompts
 Config.Language = {
-    PromptText = "Pick",
-    PromptGroupName = "Plants",
-    NoRoomForItems = "No room in inventory for the items.",
-    TooFarFromPlant = "You are too far from the plant location.",
-    cantpick = "This plant had been picked already comeback in a bit. "
+    PromptText = "Recoger",
+    PromptGroupName = "Plantas",
+    NoRoomForItems = "No hay espacio en el inventario para los objetos.",
+    TooFarFromPlant = "Estás demasiado lejos de la ubicación de la planta.",
+    cantpick = "Esta planta ya ha sido recogida, vuelve en un rato."
 }
 
 -- Control actions for prompts
