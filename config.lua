@@ -1314,6 +1314,11 @@ Config.Plants = {
 }
 
 
-return {
-    Config = Config
+-- Language text for prompts
+Config.Language = {
+    PromptText = "Recoger",
+    PromptGroupName = "Plantas",
+    NoRoomForItems = "No hay espacio en el inventario para los objetos.",
+    TooFarFromPlant = "Estás demasiado lejos de la ubicación de la planta.",
+    cantpick = "Esta planta ya ha sido recogida, vuelve en un rato."
 }
